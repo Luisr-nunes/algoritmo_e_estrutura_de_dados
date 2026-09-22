@@ -1,0 +1,13 @@
+Questoes de Estrutura de Dados
+==============================
+pdfs/    -> um PDF por questao (enunciado, explicacao, codigo e teste)
+codigos/ -> um arquivo .c por questao
+
+01 Pilha, Fila e Struct (tarefas)
+02 Lista encadeada (inserir no final e contar valores)
+03 Simulado 2026.2 - Questao 01: intercalar filas (Grupo)
+04 Simulado 2026.2 - Questao 02: copiar arvore binaria de busca (Individual)
+05 Questao em Grupo: contar nos cuja soma dos filhos e maior que o proprio no
+06 Questao Individual: intercalar filas com No* intercalarFilas(No *f1, No *f2)
+
+Compilar: gcc -Wall -o programa codigos/NN_nome.c && ./programa
